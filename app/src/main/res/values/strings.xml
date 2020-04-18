@@ -1,6 +1,15 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="login_text">Login</string>
+
+    <!-- LOGIN SCREEN -->
+    <string name="username_text">Felhasználónév</string>
+    <string name="password_text">Jelszó</string>
+    <string name="login_button">Bejelentkezés</string>
+    <string name="register_button">Regisztráció</string>
+    <string name="forgot_password_button">Elfelejtett jelszó</string>
+
+
 </resources>
 
 
